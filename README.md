@@ -32,7 +32,7 @@
 
 
 ## 사용 툴
-- Unity
+- Unity 2021.03.21f1
 
 
 ## 협업 툴
@@ -45,35 +45,25 @@
   <tr>
     <td style="text-align: center;">
       <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_1.png?raw=true" alt="Image 1" width="500">
+        <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/ReadMe_Image_3.png?raw=true" alt="Image 3" width="500">
         <figcaption>Github 협업 사진</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_2.png?raw=true" alt="Image 2" width="500">
+        <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/ReadMe_Image_4.png?raw=true" alt="Image 4" width="500">
         <figcaption>Notion : 명세서 작성</figcaption>
-      </figure>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_3.png?raw=true" alt="Image 1" width="500">
-        <figcaption>Notion : Backlog 정리</figcaption>
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img src = "https://github.com/Freode/SketchQuizGame/blob/main/ReadMeImage/ReadMe_Image_4.png?raw=true" alt="Image 2" width="500">
-        <figcaption>Figma : 와이어 프레임 작성</figcaption>
       </figure>
     </td>
   </tr>
 </table>
 
-## 개발 세부 파트
+## 플로우 차트
+![플로우 차트](https://github.com/Freode/DogKnights/blob/main/ReadMeImage/ReadMe_Image_1.png)
 
+
+## 개발 세부 파트
+![본인 개발 플로우 차트](https://github.com/Freode/DogKnights/blob/main/ReadMeImage/ReadMe_Image_2.png)
 
 ### 프로젝트 기획
 

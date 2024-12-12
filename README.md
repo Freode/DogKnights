@@ -1,4 +1,4 @@
-# DogKnights ( 2023. 06. ~ 2023. 12. )
+# DogKnights
 - 2D 로그라이크 게임
 
 

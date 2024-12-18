@@ -65,22 +65,40 @@
 ## 개발 세부 파트
 ![본인 개발 플로우 차트](https://github.com/Freode/DogKnights/blob/main/ReadMeImage/ReadMe_Image_2.png)
 
-### 프로젝트 기획
-
 
 ### 스테이지 관리 기능 및 배치
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <figure>
+        <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_VariousMap_1.gif?raw=true" alt="DogKnights_VariousMap_1" width="500">
+        <figcaption>맵 예시 1</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_VariousMap_2.gif?raw=true" alt="DogKnights_VariousMap_2" width="500">
+        <figcaption>맵 예시 2</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 
 ### 스테이지 구조물 상호작용 기능
+<img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_StageInteraction.gif?raw=true" alt="DogKnights_StageInteraction" width="500">
 
 
 ### 스테이지 이동
+<img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_StageMove.gif?raw=true" alt="DogKnights_StageMove" width="500">
 
 
 ### 시야 조절 기능
 
 
 ## 시연 영상
+[![시연 영상](https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_Title_1.png)](https://youtu.be/aZ6FYSIx8iY)
+- 클릭하시면, 시연 영상으로 이동합니다.
 
 
 ## 느낀점

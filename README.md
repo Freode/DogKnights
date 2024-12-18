@@ -1,5 +1,6 @@
 # DogKnights
 - 2D 로그라이크 게임
+<img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_Title_1.png?raw=true" alt="DogKnights_StageMove" width="500">
 
 
 ## 요약
@@ -8,7 +9,7 @@
 
 
 ## 기간
-2023.06. ~ 2023.12.
+2023.04. ~ 2023.08.
 
 
 ## 참여 인원
@@ -58,6 +59,7 @@
   </tr>
 </table>
 
+
 ## 플로우 차트
 ![플로우 차트](https://github.com/Freode/DogKnights/blob/main/ReadMeImage/ReadMe_Image_1.png)
 
@@ -85,15 +87,38 @@
 </table>
 
 
+- 해당 스테이지의 Visible 상태를 활성화하고 다른 스테이지의 Visible 상태를 비활성화함으로써 자원 사용률 절감
+- 모든 스테이지 설계 및 배치
+
 ### 스테이지 구조물 상호작용 기능
 <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_StageInteraction.gif?raw=true" alt="DogKnights_StageInteraction" width="500">
+- 몬스터를 모두 제거하거나 캐릭터가 문 근처로 이동하는 등, 여러 조건에 의해 문이 열리도록 설계
 
 
 ### 스테이지 이동
 <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_StageMove.gif?raw=true" alt="DogKnights_StageMove" width="500">
+- 문 뒤로 이동하거나 특정 지점에 도착할 경우, 다음 스테이지로 이동
+- 이전 스테이지의 Visible 비활성화
 
 
 ### 시야 조절 기능
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <figure>
+        <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_VariousSight_1.png?raw=true" alt="DogKnights_VariousSight_1" width="500">
+        <figcaption>맵 예시 1</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src = "https://github.com/Freode/DogKnights/blob/main/ReadMeImage/DogKnights_VariousSight_2.png?raw=true" alt="DogKnights_VariousSight_2" width="500">
+        <figcaption>맵 예시 2</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+- 스테이지 컨샙별로 다른 시야에서 확인되도록 구현
 
 
 ## 시연 영상
@@ -102,5 +127,6 @@
 
 
 ## 느낀점
-
+- Unity 엔진과 협업을 처음으로 해본 프로젝트입니다.
+- 
 
